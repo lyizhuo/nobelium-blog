@@ -5,7 +5,6 @@ import { useEffect } from 'react'
  * @returns
  */
 export default function WordCount() {
-  const { locale } = useGlobal()
   useEffect(() => {
     countWords()
   })
