@@ -1,5 +1,8 @@
 import { useConfig } from '@/lib/config'
 import Vercel from '@/components/Vercel'
+import Link from 'next/link';
+import Image from 'next/image';
+
 const Footer = ({ fullWidth }) => {
   const BLOG = useConfig()
 
