@@ -21,13 +21,13 @@ const Footer = ({ fullWidth }) => {
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
           </p>
-          <Link href="/feed">
+          <Link href="/feed" target="_blank">
             <a>
               <Image
                 src="https://icon-vert.vercel.app/rss.png"
-                alt="Picture of the author"
-                width={100}
-                height={29}
+                alt="RSS"
+                width={95}
+                height={27}
               />
             </a>
           </Link>
