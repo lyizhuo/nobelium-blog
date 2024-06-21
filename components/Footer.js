@@ -18,7 +18,7 @@ const Footer = ({ fullWidth }) => {
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
           </p>
-          <Vercel />
+          <img src="/public/rss.png" alt="rss" onclick="jumpToImage('/feed')"/>
         </div>
       </div>
     </div>
