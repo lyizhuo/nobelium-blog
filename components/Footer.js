@@ -27,7 +27,7 @@ const Footer = ({ fullWidth }) => {
                 src="https://icon-vert.vercel.app/rss.png"
                 alt="Picture of the author"
                 width={100}
-                height={auto}
+                height={342.5}
               />
             </a>
           </Link>
