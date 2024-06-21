@@ -7,6 +7,7 @@ import FormattedDate from '@/components/FormattedDate'
 import TagItem from '@/components/TagItem'
 import NotionRenderer from '@/components/NotionRenderer'
 import TableOfContents from '@/components/TableOfContents'
+import WordCount from '@/components/WordCount' //修改
 
 /**
  * A post renderer
@@ -52,6 +53,10 @@ export default function Post (props) {
           </div>
           <div className="mr-2 mb-4 md:ml-0">
             <FormattedDate date={post.date} />
+
+            <span className="block">&nbsp;/&nbsp;</span>
+            <WordCount />
+
           </div>
           {post.tags && (
             <div className="flex flex-nowrap max-w-full overflow-x-auto article-tags">
