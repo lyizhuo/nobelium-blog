@@ -1,7 +1,7 @@
 import { useConfig } from '@/lib/config'
 import Vercel from '@/components/Vercel'
 import Link from 'next/link';
-import Image from 'next/image';
+import Image from '../public';
 
 const Footer = ({ fullWidth }) => {
   const BLOG = useConfig()
@@ -24,8 +24,8 @@ const Footer = ({ fullWidth }) => {
           <Link href="/feed">
             <a>
               <Image
-                src="https://icon-vert.vercel.app/rss.png"
-                alt="Picture of the author"
+                src="rss.png"
+                alt="rss"
                 width={100}
                 height={342}
               />
