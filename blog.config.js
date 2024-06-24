@@ -1,6 +1,6 @@
 const BLOG = {
-  title: '白泽日志',
-  author: 'whitzard',
+  title: '白泽手记',
+  author: 'whitezaak',
   email: 'whitzardl@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
