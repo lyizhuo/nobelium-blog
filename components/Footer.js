@@ -24,7 +24,7 @@ const Footer = ({ fullWidth }) => {
           <Link href="/feed" target="_blank">
             <a>
               <Image
-                src="https://icon-vert.vercel.app/rss.png"
+                src="https://icon-vert.vercel.app/RSS-icon-widget.svg"
                 alt="RSS"
                 width={95}
                 height={27}
