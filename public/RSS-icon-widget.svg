@@ -52,7 +52,7 @@
   </defs>
   <rect id="圆角矩形_2" data-name="圆角矩形 2" width="274" height="80" rx="15" ry="15"/>
   <path id="分割线" class="cls-1" d="M91,0h3V80H91V0Z"/>
-  <circle id="椭圆_1" data-name="椭圆 1" class="cls-2" cx="31" cy="58" r="6"/>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-2" cx="30.5" cy="57.5" r="5.5"/>
   <text id="RSS" class="cls-3" transform="translate(182.452 62.134) scale(0.718)"><tspan x="0">RSS</tspan></text>
   <path id="形状_2" data-name="形状 2" class="cls-4" d="M44,63H54A29,29,0,0,0,25,34V44A18.752,18.752,0,0,1,44,63Z"/>
   <path id="形状_1" data-name="形状 1" class="cls-4" d="M25,17A45.974,45.974,0,0,1,71,63H61a35.742,35.742,0,0,0-8-23A36.21,36.21,0,0,0,25,27V17Z"/>
