@@ -1,4 +1,4 @@
-import 'prismjs/themes/prism-tomorrow.css'
+import 'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/prism/9000.0.1/themes/prism-tomorrow.css'
 import 'react-notion-x/src/styles.css'
 import 'katex/dist/katex.min.css'
 import App from 'next/app'
